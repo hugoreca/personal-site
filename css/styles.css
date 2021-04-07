@@ -162,3 +162,16 @@ hr {
 p {
   line-height: 2;
 }
+
+.attribution {
+  font-size: .5rem;
+}
+
+.excel-attribution {
+  clear:left;
+}
+
+.python-attribution {
+  clear:right;
+  text-align: right;
+}
