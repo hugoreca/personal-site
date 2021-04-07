@@ -1,0 +1,164 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #252a34;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  margin: .5rem auto 0 auto;
+  color: #252a34;
+  font-weight: normal;
+
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ff2e63;
+}
+
+a {
+  color: #ff2e63;
+  margin: auto 2rem auto 2rem;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #eaeaea
+}
+
+.top-container {
+  background-color: #08d9d6;
+  padding-top: 100px;
+  position: relative;
+}
+
+
+.middle-container {
+  margin: 4rem auto 4rem auto;
+}
+
+.bottom-container {
+  background-color: #08d9d6;
+  margin-bottom: 0;
+  height: 7rem;
+  padding-top: 2.2rem;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.bottom-cloud, .top-cloud {
+  position: absolute;
+}
+
+.top-cloud {
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  left: 300px;
+  bottom: 300px;
+}
+
+.img {
+  width: 25%;
+  height: auto;
+}
+
+.excel {
+  float: left;
+  margin-right: 30px;
+}
+
+.python {
+  float: right;
+  margin-left: 30px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+hr {
+  color: #f5cac3;
+  border-style: dotted none none none;
+  height: 2px;
+  border-width: 10px;
+  width: 10%;
+  margin-bottom: 3rem;
+}
+
+.extract {
+  width: 30%;
+  text-align: center;
+  margin: 3rem auto;
+}
+
+.my-skills {
+  margin-top: 2.5rem;
+}
+
+.trademark {
+  margin-bottom: 0;
+  color: #eaeaea;
+}
+
+
+.BUTTON_OPL {
+   background: #EAEAEA;
+   background-image: -webkit-linear-gradient(top, #EAEAEA, #A6B1B9);
+   background-image: -moz-linear-gradient(top, #EAEAEA, #A6B1B9);
+   background-image: -ms-linear-gradient(top, #EAEAEA, #A6B1B9);
+   background-image: -o-linear-gradient(top, #EAEAEA, #A6B1B9);
+   background-image: -webkit-gradient(to bottom, #EAEAEA, #A6B1B9);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 0;
+   line-height: 0;
+   color: #FFFFFF;
+   font-family: 'Montserrat', sans-serif;
+   width: 143px;
+   font-size: 20px;
+   font-weight: 200;
+   padding: 22px;
+   text-shadow: 1px 1px 20px #000000;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top: 2rem;
+}
+
+.BUTTON_OPL:hover {
+   background: #A6B1B9;
+   background-image: -webkit-linear-gradient(top, #A6B1B9, #EAEAEA);
+   background-image: -moz-linear-gradient(top, #A6B1B9, #EAEAEA);
+   background-image: -ms-linear-gradient(top, #A6B1B9, #EAEAEA);
+   background-image: -o-linear-gradient(top, #A6B1B9, #EAEAEA);
+   background-image: -webkit-gradient(to bottom, #A6B1B9, #EAEAEA);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+
+p {
+  line-height: 2;
+}
